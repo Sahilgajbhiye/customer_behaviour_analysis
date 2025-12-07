@@ -129,75 +129,66 @@ The Power BI dashboard includes:
 
 ---
 
-## ▶️ How to Run the Project
----
+## Project Setup Guide
 
-### **1️⃣ Clone Repository**
----
-
+git clone <repository-link>  
+cd project-folder  
 
 
-▶️ How to Run the Project
-1️⃣ Clone Repository
-git clone <repository-link>
-cd project-folder
+## 2️⃣ Install Python Dependencies
 
-2️⃣ Install Python Dependencies
-
-🐍 Ensure Python is installed
+🐍 Ensure Python is installed  
 
 📦 Install all required libraries using:
 
-pip install -r requirements.txt
 
-3️⃣ Execute Python Notebooks
+
+## 3️⃣ Execute Python Notebooks
 
 Open Jupyter Notebook and run the following in order:
 
-📘 01_Data_Loading_and_Cleaning.ipynb
-
-📗 02_EDA.ipynb
+📘 01_Data_Loading_and_Cleaning.ipynb  
+📗 02_EDA.ipynb  
 
 These notebooks handle:
 
-🔍 Data loading
+- 🔍 Data loading
+- 🧹 Cleaning
+- 📊 Exploratory analysis
 
-🧹 Cleaning
 
-📊 Exploratory analysis
+## 4️⃣ Run SQL Scripts
 
-4️⃣ Run SQL Scripts
+🗄️ Import the cleaned dataset into your SQL database  
 
-🗄️ Import the cleaned dataset into your SQL database
-
-▶️ Run SQL queries from the /SQL/ directory
+▶️ Run SQL queries from the /SQL/ directory  
 
 This step includes:
 
-📑 Aggregations, joins, window functions
+- 📑 Aggregations, joins, window functions
+- 📈 KPI calculations
+- 👥 Customer segmentation logic
 
-📈 KPI calculations
 
-👥 Customer segmentation logic
+## 5️⃣ Open Power BI Dashboard
 
-5️⃣ Open Power BI Dashboard
+📊 Open customer_behaviour.pbix using Power BI Desktop  
 
-📊 Open customer_behaviour.pbix using Power BI Desktop
+📈 Explore interactive KPI visuals, segmentation charts & insights  
 
-📈 Explore interactive KPI visuals, segmentation charts & insights
 
-6️⃣ View Presentation
+## 6️⃣ View Presentation
 
 You can view the final project presentation via:
 
-🎞️ Gamma link (if provided)
-or
+🎞️ Gamma link (if provided)  
+or  
+🖥️ The exported PPT located in the /Presentation/ folder  
 
-🖥️ The exported PPT located in the /Presentation/ folder
 
-📫 Contact
+## 📫 Contact
 
-👤 Sahil Gajbhiye
-📧 sahilgajbhiye56@gmail.com
+👤 Sahil Gajbhiye  
+📧 sahilgajbhiye56@gmail.com  
+🔗 LinkedIn: (www.linkedin.com/in/sahil-python-machinelearning-dev)
 
-🔗 LinkedIn: (add your link)
