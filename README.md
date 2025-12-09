@@ -1,4 +1,4 @@
-# 📊 End-to-End Data Analytics Project
+# 📊 Customer Behaviour Analysis, Data Analytics Project
 ---
 
 ## 📝 Overview  
