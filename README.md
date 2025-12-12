@@ -2,8 +2,10 @@
 ---
 
 ## 📝 Overview  
-This project showcases a complete end-to-end data analytics lifecycle, starting from raw data ingestion in Python to delivering insights through SQL analysis, interactive Power BI dashboards, and an executive-level presentation.  
-
+This project analyzes customer shopping behavior using transactional data from 3,900 
+purchases across various product categories. The goal is to uncover insights into spending 
+patterns, customer segments, product preferences, and subscription behavior to guide strategic 
+business decisions. 
 The objective is to demonstrate strong capabilities in **data cleaning**, **exploratory analysis**, **SQL querying**, **business intelligence**, and **insight communication**.
 
 ---
